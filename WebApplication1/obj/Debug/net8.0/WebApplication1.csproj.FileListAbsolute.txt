@@ -1,0 +1,805 @@
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\DataAutogenerator.NetCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Domain.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Data.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\bin\Debug\net8.0\Domain.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\appsettings.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\DataAutogenerator.NetCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Domain.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Data.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Domain.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\WebApplication1\bin\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\DataAutogenerator.NetCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

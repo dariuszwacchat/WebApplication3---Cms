@@ -1,0 +1,125 @@
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\bin\Debug\net8.0\Application.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\bin\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\bin\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\refint\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1\Application\obj\Debug\net8.0\ref\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Application.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\refint\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\ref\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Domain.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Frameworks.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Data.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Domain.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\bin\Debug\net8.0\Frameworks.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication1 - Movies, categories, identity\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.deps.json
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\refint\Application.dll
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.pdb
+F:\C# Projects\2022\ASP .NET Core\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\ref\Application.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.deps.json
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication2 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\ref\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.deps.json
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\ref\Application.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.deps.json
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication4 - Movies, categories, identity, roles\Application\obj\Debug\net8.0\ref\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Application.deps.json
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Data.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Domain.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Frameworks.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Data.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Domain.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\bin\Debug\net8.0\Frameworks.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\refint\Application.dll
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\Application.pdb
+D:\CSharp projects\2022\Api\WebApplication3 - Cms\Application\obj\Debug\net8.0\ref\Application.dll
